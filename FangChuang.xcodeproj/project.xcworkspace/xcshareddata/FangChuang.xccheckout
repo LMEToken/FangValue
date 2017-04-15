@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D9E52CA7-EB5A-42EE-AB0D-AEA94B5842A5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FangChuang</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FFAA34A7-FF24-48C7-9F40-C91E5D579EB4</key>
+		<string>https://192.168.1.166:8443/svn/ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>20141008/FangChuang.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FFAA34A7-FF24-48C7-9F40-C91E5D579EB4</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>FFAA34A7-FF24-48C7-9F40-C91E5D579EB4</key>
+		<string>https://192.168.1.166:8443/svn/ios</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.1.166:8443/svn/ios/fangchuang1/fangchuang/FangChuang.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FFAA34A7-FF24-48C7-9F40-C91E5D579EB4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FFAA34A7-FF24-48C7-9F40-C91E5D579EB4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

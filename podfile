@@ -1,0 +1,6 @@
+xplatform :ios,'7.0'
+pod 'FMDB', '~> 2.2'
+pod 'HPGrowingTextView', '~> 1.1'
+   pod 'ZYQAssetPickerController', '~> 1.0.0'
+   pod 'GCPlaceholderTextView', '~> 1.0.1'
+

@@ -1,0 +1,23 @@
+PODS:
+  - FMDB (2.2):
+    - FMDB/standard
+  - FMDB/common (2.2)
+  - FMDB/standard (2.2):
+    - FMDB/common
+  - GCPlaceholderTextView (1.0.1)
+  - HPGrowingTextView (1.1)
+  - ZYQAssetPickerController (1.0.0)
+
+DEPENDENCIES:
+  - FMDB (~> 2.2)
+  - GCPlaceholderTextView (~> 1.0.1)
+  - HPGrowingTextView (~> 1.1)
+  - ZYQAssetPickerController (~> 1.0.0)
+
+SPEC CHECKSUMS:
+  FMDB: e0dd09464b4e1a1cd7fa51ea835ae821b5656865
+  GCPlaceholderTextView: 8f0e4cb4b93827c9ec8d9bf9e850bbd328d1db0b
+  HPGrowingTextView: 4318f557b33c19def1c53ec275d6e2a2d6589cd0
+  ZYQAssetPickerController: 37fe014a5baba012aef416a24d7b9a8cc50aaacf
+
+COCOAPODS: 0.31.1
